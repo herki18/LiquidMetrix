@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Herki\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Herki\\.nuget\\packages"
+    ]
+  }
+}
